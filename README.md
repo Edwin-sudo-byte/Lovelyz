@@ -20,28 +20,6 @@
         </nav>
     </header>
 
-    <section id="home">
-        <h2>Selamat Datang</h2>
-        <p>Pilih mata pelajaran di bawah untuk melihat materi pembelajaran sesuai Kurikulum Merdeka.</p>
-    </section>
-
-    <section id="materi">
-        <h2>Materi Pelajaran</h2>
-        <ul>
-            <li><a href="materi/matematika.html">Matematika</a></li>
-            <li><a href="materi/bahasa_indonesia.html">Bahasa Indonesia</a></li>
-            <li><a href="materi/bahasa_inggris.html">Bahasa Inggris</a></li>
-            <li><a href="materi/ipa.html">Ilmu Pengetahuan Alam (IPA)</a></li>
-            <li><a href="materi/ips.html">Ilmu Pengetahuan Sosial (IPS)</a></li>
-            <li><a href="materi/seni_budaya.html">Seni Budaya</a></li>
-            <li><a href="materi/pjok.html">Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)</a></li>
-            <li><a href="materi/pendidikan_pancasila.html">Pendidikan Pancasila</a></li>
-        </ul>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 Materi Pembelajaran SMA Kurikulum Merdeka</p>
-    </footer>
 </body>
 </html>
 * {
