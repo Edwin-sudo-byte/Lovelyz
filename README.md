@@ -43,4 +43,4 @@
         <p>&copy; 2024 Materi Pembelajaran SMA Kurikulum Merdeka</p>
     </footer>
 </body>
-</html> 
+</html>
