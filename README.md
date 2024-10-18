@@ -1,3 +1,4 @@
+- [Beranda](index.html) 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,3 +45,77 @@
     </footer>
 </body>
 </html>
+
+- [Materi Pelajaran](materi.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi Matematika</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Materi Matematika</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Beranda</a></li>
+                <li><a href="#materi">Materi</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="materi">
+        <h2>Daftar Materi Matematika</h2>
+        <ul>
+            <li>Pertidaksamaan Linear dan Kuadrat</li>
+            <li>Fungsi Eksponensial dan Logaritma</li>
+            <li>Trigonometri</li>
+            <li>Kalkulus Dasar</li>
+            <li>Statistika dan Probabilitas</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 SMA Kurikulum Merdeka</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Materi Bahasa Indonesia</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Materi Bahasa Indonesia</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Beranda</a></li>
+                <li><a href="#materi">Materi</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="materi">
+        <h2>Daftar Materi Bahasa Indonesia</h2>
+        <ul>
+            <li>Teks Eksposisi</li>
+            <li>Teks Narasi</li>
+            <li>Teks Prosedur</li>
+            <li>Puisi dan Prosa</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 SMA Kurikulum Merdeka</p>
+    </footer>
+</body>
+</html>
+  
